@@ -17,7 +17,7 @@ Product information is being duplicated or overwritten between member of the tea
 In order to keep thing organized and avoid duplicating or overriding work we need an easy way to communicate and alert each other when processing.
 
 ### Tasks:
-[ ] Create a websocket server
-[ ] Update product inventory forms to connect to websocket server
-[ ] Send message when product inventory changes
-[ ] Receive and display message from websocket when changes occur
+- Create a websocket server
+- Update product inventory forms to connect to websocket server
+- Send message when product inventory changes
+- Receive and display message from websocket when changes occur
