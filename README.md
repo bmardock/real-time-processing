@@ -7,6 +7,7 @@ Our inventory process has a number of steps in order to get a product live and o
 - Photo
 - Price
 - Tag
+
 Some steps require coordination and hand off
 - Ex: Pricing and photography
 
